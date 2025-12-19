@@ -4,7 +4,7 @@ This project focuses on analyzing e-commerce sales data using **Python** and **S
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The goal of this project is to understand sales performance, identify trends, and answer key business questions using data analysis techniques.  
 Python is used for data cleaning and exploration, while SQL is used for structured querying.
@@ -19,7 +19,7 @@ Python is used for data cleaning and exploration, while SQL is used for structur
 
 ---
 
-## 📌 Key Analysis Performed
+##  Key Analysis Performed
 
 - Data cleaning and preprocessing
 - Sales trend analysis over time
@@ -29,13 +29,13 @@ Python is used for data cleaning and exploration, while SQL is used for structur
 
 ---
 
-## 📂 Project File
+##  Project File
 
 - `python+sql_ecommerce.ipynb` – Complete analysis notebook
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository  
 ```bash
