@@ -11,7 +11,7 @@ Python is used for data cleaning and exploration, while SQL is used for structur
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python (pandas, matplotlib, seaborn)
 - SQL
